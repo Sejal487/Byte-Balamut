@@ -1,0 +1,73 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# === Environment variables ===
+.env
+.venv
+env/
+venv/
+ENV/
+
+# === ESPHome специфика ===
+# Временные файлы компиляции ESPHome
+.esphome/
+# Кэш платформ
+.platformio/
+# Secrets
+secrets.yaml
+*.local.yaml
+# Backup Secrets
+secrets.yaml.bak
+secrets.yaml.backup
+*.secret.yaml
+
+# === Home Assistant специфика ===
+# Кэш и временные файлы HA
+.homeassistant/.cloud*
+.homeassistant/.storage/
+.homeassistant/tts/
+
+# === Системные файлы ===
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# === IDE ===
+# VS Code
+.vscode/
+# PyCharm
+.idea/
+*.iws
+
+# === OS ===
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Логи и дампы ===
+*.log
+*.dump
